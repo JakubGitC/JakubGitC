@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, Glad to see you here!</h1>
 <h3 align="center">I'm Jakub, a front-end developer. I live in Poland. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love exploring new technologies and leverage them to solve real-life problems. Apart from that I also love guiding and mentor newbies.</h3>
 <h4 align="center">Talking about Personal Stuffs: </h4>
-- 🔭 I’m currently working on **Wildfire Detector with Google Maps API**
+🔭 I’m currently working on **Wildfire Detector with Google Maps API
 
-- 👨‍💻 All of my projects are available at [https://ejakubdeveloper.pl](https://ejakubdeveloper.pl)
+👨‍💻 All of my projects are available at [https://ejakubdeveloper.pl](https://ejakubdeveloper.pl)
 
-- 💬 Ask me about **react, javascript, typescript**
+💬 Ask me about **react, javascript, typescript**
 
-- ⚡ Fun fact **I thing I am good at what I do**
+⚡ Fun fact **I thing I am good at what I do**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
